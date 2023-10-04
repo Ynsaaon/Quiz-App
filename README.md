@@ -7,7 +7,7 @@ A quiz application created using Python and powered by the Open Trivia Database 
 **2. User Interface:** In [ui.py](https://github.com/Ynsaaon/Quiz-App/blob/main/ui.py) file, I create a user-friendly interface using a GUI library like Tkinter for desktop applications. Design the interface to display questions, answer options, and the user's score.
 
 <p align="center">
-    <img width="250" src="./UI.png">
+    <img width="250" src="./images/UI.png">
 </p>
 
 **3. Scoring Logic:** In [quiz_brain.py](https://github.com/Ynsaaon/Quiz-App/blob/main/quiz_brain.py) file, I implement the scoring logic to track the user's correct and incorrect answers. Calculate the total score based on their performance.
